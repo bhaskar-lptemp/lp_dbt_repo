@@ -7,3 +7,7 @@ sources:
       - name: RAW_LISTINGS
       - name: RAW_HOSTS
       - name: RAW_REVIEWS
+      - name: raw_customer2
+      - name: CUSTOMER
+      - name: raw_customer
+      - name: sales_us
